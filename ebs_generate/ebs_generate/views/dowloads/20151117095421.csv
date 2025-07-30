@@ -1,0 +1,4 @@
+"Customer code","Customer ship to","Order","CPO DATE","Customer Requested Date","fixed Y","Qty","","Customer Part no","Currency","Ship Method","CPO DATE ","","","fixed 1","" 
+"91","TPCAP-BP_FG_SHIP","F0200414","01112015","03112015","Y","Order Type","","86150-0K100","THB","Road","01112015","","","1","FTTL_FG_PASS_THRU" 
+"91","TPCAP-BP_FG_SHIP","F0200411","01112015","03112015","Y","Order Type","","86120-0K761","THB","Road","01112015","","","1","FTTL_FG_DOMESTIC" 
+"91","TPCAP-BP_FG_SHIP","F0200420","01112015","03112015","Y","Order Type","","86160-02B00","THB","Road","01112015","","","1","FTTL_FG_PASS_THRU" 
